@@ -1,0 +1,31 @@
+body {
+  background-color: aliceblue;
+  width: 100%;
+}
+h5 {
+  padding-bottom: 80px;
+  font-family: "Oleo Script", cursive;
+  font-size: 30px;
+}
+p {
+  font-family: "Oleo Script", cursive;
+  color: rgb(177, 204, 227);
+  font-size: 30px;
+}
+.brand {
+  font-family: "Oleo Script", cursive;
+  font-size: 40px;
+  color: beige;
+  margin-left: 30px;
+}
+
+.nav-item {
+  font-size: 20px;
+  padding: 2px;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: "Oleo Script", cursive;
+  text-align: center;
+}

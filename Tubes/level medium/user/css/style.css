@@ -1,0 +1,28 @@
+body {
+  background-image: url(..//img/bg1.jpg);
+}
+.card-body {
+  background-color: black;
+  border-radius: 10px;
+}
+.card {
+  width: 25rem;
+  position: absolute;
+  margin: 40px 0px 0px 500px;
+}
+.form-label {
+  font-size: 18px;
+  color: aliceblue;
+}
+.card-title {
+  font-size: 40px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: aliceblue;
+  text-align: center;
+}
+
+.card-login {
+  width: 25rem;
+  position: absolute;
+  margin: 130px 0px 0px 500px;
+}
